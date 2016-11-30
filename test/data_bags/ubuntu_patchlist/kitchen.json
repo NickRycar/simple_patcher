@@ -1,0 +1,7 @@
+{
+  "id": "kitchen",
+  "package": {
+    "bind9-host": "1:9.9.5.dfsg-3ubuntu0.10",
+    "apt": "1.0.1ubuntu2.15"
+  }
+}
